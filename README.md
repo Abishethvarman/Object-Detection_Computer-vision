@@ -1,4 +1,4 @@
-My first image detection practice with the Tensorflow coco-ssd. This application is built with the help of [video](https://youtu.be/uTdUUpfA83s) this video initially. Later I have developed in my own flows.
+My first image detection practice with the Tensorflow coco-ssd. This application is built with the help of this [video](https://youtu.be/uTdUUpfA83s) initially. Later I have developed in my own flows.
 
 If you ant to run in your machine.
 
