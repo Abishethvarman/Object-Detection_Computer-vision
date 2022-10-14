@@ -1,6 +1,6 @@
-My first image detection practice with the Tensorflow coco-ssd. This application is built with the help of[https://youtu.be/uTdUUpfA83s] this video initially. Later I have developed in my own flows.
+My first image detection practice with the Tensorflow coco-ssd. This application is built with the help of[https://youtu.be/uTdUUpfA83s](video) this video initially. Later I have developed in my own flows.
 
-If fyou ant to run in your machine.
+If you ant to run in your machine.
 
 1. Check your node and git versions near to the nearest stable version
 2. clone this repo by 'git clone <this page url>' in local machine cmd.
